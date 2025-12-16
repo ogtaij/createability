@@ -1,4 +1,4 @@
-**CreateAbility**
+# CreateAbility
 
 CreateAbility is an iOS application designed to help users stay organized, manage time intentionally, and care for their mental well-being without becoming overwhelmed.
 
@@ -10,7 +10,7 @@ CreateAbility was built using a structured design-thinking process documented in
 
 Rather than starting with features, the project began with a clear understanding of the user.
 
-**Primary User Persona: Raven**
+# Primary User Persona: Raven
 
 Raven struggles with the following:
 
