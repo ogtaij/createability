@@ -1,4 +1,4 @@
-<img width="579" height="1132" alt="Screenshot 2025-12-09 at 11 02 04 PM" src="https://github.com/user-attachments/assets/ddd60cb5-8d93-46ee-a168-312e02d01d0a" />
+<img width="579" height="1132" alt="Screenshot 2025-12-09 at 11 02 04 PM" src="https://github.com/user-attachments/assets/00f14fa6-2309-4281-afc6-0fb46fc65cff" />
 
 
 
@@ -63,7 +63,7 @@ Low- and mid-fidelity wireframes focused on layout clarity, visual hierarchy, an
 
 Iterations emphasized calm visual language and reduced sensory load.
 
-**Development and Implementation**
+# Development and Implementation
 
 The refined designs were implemented using Swift and SwiftUI with a modular view-based architecture.
 
@@ -80,7 +80,7 @@ Addresses:
 - Overstimulation
 - Emotional overload
 
-**Commitments**
+# Commitments
 
 Encourages meaningful intentions instead of overwhelming task lists.
 
@@ -97,7 +97,7 @@ Addresses:
 
 - Time awareness without guilt
 
-**Self-Care**
+# Self-Care
 
 Creates a dedicated space so self-care does not get forgotten.
 
@@ -105,7 +105,7 @@ Addresses:
 
 - Self-care taking a back seat
 
-**Settings**
+# Settings
 
 Allows the user to control the experience and reduce unnecessary stimuli.
 
@@ -114,7 +114,7 @@ Addresses:
 - Overstimulation
 - Personalization needs
 
-**Design Decisions Informed by Raven**
+# Design Decisions Informed by Raven
 
 Minimal color palette to reduce sensory overload
 Large, readable text for cognitive ease
@@ -122,7 +122,7 @@ No productivity streaks or pressure-based metrics
 Clear separation between reflection and action
 Each decision was made to protect the user’s focus and mental energy.
 
-**Technical Overview**
+# Technical Overview
 
 - Platform: iOS
 - Language: Swift
@@ -131,11 +131,11 @@ Each decision was made to protect the user’s focus and mental energy.
 - State management: View-based state updates
 - The codebase is structured for clarity, maintainability, and future expansion.
 
-**Project Structure**
+# Project Structure
 
 createablity: Assets: description: Visual assets MoodPage.swift: description: Emotional reflection CommitmentsPage.swift: description: Intentional organization CalendarPage.swift: description: Time awareness SelfCarePage.swift: description: Wellness support SettingsPage.swift: description: Customization NavigationView.swift: description: App navigation FinalAppView.swift: description: Root view
 
-**Future Improvements**
+# Future Improvements
 
 - Adding to Apple Intellegence & Vision Pro
 - Gentle reminders and notifications
@@ -143,7 +143,7 @@ createablity: Assets: description: Visual assets MoodPage.swift: description: Em
 - Accessibility refinements
 - Optional personalization features
 
-**Final Reflection**
+# Final Reflection
 
 CreateAbility demonstrates how user research can directly inform both design and engineering decisions.
 
