@@ -1,3 +1,7 @@
+<img width="579" height="1132" alt="Screenshot 2025-12-09 at 11 02 04 PM" src="https://github.com/user-attachments/assets/ddd60cb5-8d93-46ee-a168-312e02d01d0a" />
+
+
+
 # CreateAbility
 
 CreateAbility is an iOS application designed to help users stay organized, manage time intentionally, and care for their mental well-being without becoming overwhelmed.
@@ -22,7 +26,7 @@ Raven struggles with the following:
 Design goal:
 Help Raven feel supported, focused, and in control rather than pressured.
 
-**Design and Development Process**
+# Design and Development Process
 
 **Research and Empathy**
 
@@ -31,13 +35,13 @@ Through brainstorming, empathy mapping, and research synthesis, we explored how 
 Key insight:
 Users like Raven need fewer decisions, calmer visuals, and gentle structure rather than more features.
 
-**Challenge Statement**
+# Challenge Statement
 
 How might we help users like Raven stay organized and manage time while protecting their mental well-being and prioritizing self-care?
 
 This challenge guided every design and technical decision.
 
-**Ideation and Feature Mapping**
+# Ideation and Feature Mapping
 
 Ideas were generated and grouped into core themes reflected on the Miro board:
 
@@ -47,7 +51,7 @@ Ideas were generated and grouped into core themes reflected on the Miro board:
 - Accessible self-care
 - Features that increased cognitive load were intentionally removed.
 
-**User Flows and Information Architecture**
+# User Flows and Information Architecture
 
 User flows were designed to minimize navigation depth, reduce decision fatigue, and avoid unnecessary interruptions.
 
