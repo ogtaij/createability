@@ -1,9 +1,8 @@
+/Users/taijahjohnson/Desktop/Challenges/Challenge\ 3/Final\ Presentation/testimage.png
 
 # CreateAbility
 
-/Users/taijahjohnson/Desktop/Challenges/Challenge\ 3/Final\ Presentation/Screenshot\ 2025-12-16\ at\ 8.28.26 AM.png
-
-CreateAbility is an iOS application designed to help users stay organized, manage time intentionally, and care for their mental well-being without becoming overwhelmed.
+CreateAbility is an iOS application designed to help users stay organized, manage time intentionally, and care for their ment al well-being without becoming overwhelmed.
 
 The app was designed specifically around a primary user persona, Raven, whose challenges include overstimulation, difficulty with time management, and self-care often taking a back seat. Every feature in CreateAbility directly maps back to these needs.
 
