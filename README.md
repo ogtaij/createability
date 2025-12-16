@@ -1,8 +1,7 @@
-/Users/taijahjohnson/Desktop/Challenges/Challenge\ 3/Final\ Presentation/Screenshot\ 2025-12-16\ at\ 8.28.26 AM.png
-
-
 
 # CreateAbility
+
+/Users/taijahjohnson/Desktop/Challenges/Challenge\ 3/Final\ Presentation/Screenshot\ 2025-12-16\ at\ 8.28.26 AM.png
 
 CreateAbility is an iOS application designed to help users stay organized, manage time intentionally, and care for their mental well-being without becoming overwhelmed.
 
